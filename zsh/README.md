@@ -2,5 +2,5 @@
 
 ***USAGE:***
 
-- `ln -s ./zsh/zshrc ~/.zshrc`
+- `ln ./zsh/zshrc ~/.zshrc`
 - `source ~/.zshrc`
