@@ -103,4 +103,4 @@ export EDITOR='nvim'
 # Created by `pipx` on 2022-03-31 06:35:47
 export PATH="$PATH:/home/leksus/.local/bin"
 export PATH="$HOME/neovim/bin:$PATH"
-alias obsidian="/home/leksus/Downloads/Obsidian-0.14.6.AppImage &"
+alias obsidian="$HOME/Downloads/Obsidian-0.14.6.AppImage &"
