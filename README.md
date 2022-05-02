@@ -4,4 +4,4 @@ _Currently using:_
 - [tmux](https://github.com/tmux/tmux#installation)
 - [zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 
-Configs places in their own directory, readme with help provided
+Configs placed in their own directory, readme with help provided
