@@ -1,0 +1,1 @@
+/home/leksus/.config/nvim/init.vim
