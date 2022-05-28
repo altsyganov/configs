@@ -70,7 +70,7 @@ ZSH_THEME="dpoggi"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=( git flutter kubectl)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -101,6 +101,10 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # Created by `pipx` on 2022-03-31 06:35:47
-export PATH="$PATH:/home/leksus/.local/bin"
+export PATH="$PATH:$HOME/.local/bin"
+export PATH="$PATH:$HOME/Downloads/flutter/bin"
+export PATH="$PATH:$HOME/Downloads/android-studio/bin/"
 export PATH="$HOME/neovim/bin:$PATH"
 alias obsidian="$HOME/Downloads/Obsidian-0.14.6.AppImage &"
+export CHROME_EXECUTABLE="/usr/bin/chromium"
+export PATH="$PATH:/home/leksus/.cargo/bin"
